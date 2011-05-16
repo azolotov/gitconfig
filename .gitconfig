@@ -1,0 +1,8 @@
+[user]
+	name = Anton Zolotov
+	email = anton@zolotov.eu
+[github]
+	user = azolotov
+  token = 6a48e29376db035cf3170578a30ca5ac
+[alias]
+  co = checkout
